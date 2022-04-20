@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Ghost.
+   * Contact Me on wa.me/919947200835
+   * Follow https://github.com/peaceboyhehe
 */
 
 require('./config')
@@ -81,7 +81,7 @@ async function startHisoka() {
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let pa7rick = await hisoka.sendContact(callerId, global.owner)
-    hisoka.sendMessage(callerId, { text: `Sistem otomatis block!\nJangan menelpon bot!\nSilahkan Hubungi Owner Untuk Dibuka !`}, { quoted : pa7rick })
+    hisoka.sendMessage(callerId, { text: `Automatic System block!\nDont call bot!\nPlease contact the owner to open it !`}, { quoted : pa7rick })
     await sleep(8000)
     await hisoka.updateBlockStatus(callerId, "block")
     }
