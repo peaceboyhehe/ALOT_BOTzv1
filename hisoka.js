@@ -2535,16 +2535,18 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                anu = `🎗 *ALOT* 🎗
+                anu = `©️ *ᴀʟᴏᴛ* ©️
 		
 *Bot : Marin*
-*Created by Peace Boy*
+*Created by Roar Insane*
+
+👋*Hey I'm Marin Bot, How can I help you* ✨
 
 
-🏮 *Commands List* 🏮
+📃 *Commands List* 📄
 
 
-┌──⭓ *Group Menu*
+┌──⭓ 💎 *Group Menu* 💎
 │
 │⭔ ${prefix}linkgroup
 │⭔ ${prefix}ephemeral [option]
@@ -2569,7 +2571,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Downloader Menu*
+┌──⭓ 💎 *Downloader Menu* 💎
 │
 │⭔ ${prefix}tiktoknowm [url]
 │⭔ ${prefix}tiktokwm [url]
@@ -2589,7 +2591,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Search Menu*
+┌──⭓ 💎 *Search Menu* 💎
 │
 │⭔ ${prefix}play [query]
 │⭔ ${prefix}yts [query]
@@ -2604,7 +2606,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Random Menu*
+┌──⭓ 💎 *Random Menu* 💎
 │
 │⭔ ${prefix}coffe
 │⭔ ${prefix}quotesanime
@@ -2626,7 +2628,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Text Pro Menu*
+┌──⭓ 💎 *Text Pro Menu* 💎
 │
 │⭔ ${prefix}3dchristmas
 │⭔ ${prefix}3ddeepsea
@@ -2662,7 +2664,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Photo Oxy Menu*
+┌──⭓ 💎 *Photo Oxy Menu* 💎
 │
 │⭔ ${prefix}shadow
 │⭔ ${prefix}romantic
@@ -2679,7 +2681,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Ephoto Menu*
+┌──⭓ 💎 *Ephoto Menu* 💎
 │
 │⭔ ${prefix}ffcover
 │⭔ ${prefix}crossfire
@@ -2693,7 +2695,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Fun Menu*
+┌──⭓ 💎 *Fun Menu* 💎
 │
 │⭔ ${prefix}halah
 │⭔ ${prefix}hilih
@@ -2711,7 +2713,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Primbon Menu*
+┌──⭓ 💎 *Primbon Menu* 💎
 │
 │⭔ ${prefix}nomorhoki
 │⭔ ${prefix}artimimpi
@@ -2746,7 +2748,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Convert Menu*
+┌──⭓ 💎 *Convert Menu* 💎
 │
 │⭔ ${prefix}toimage
 │⭔ ${prefix}removebg
@@ -2764,7 +2766,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Main Menu*
+┌──⭓ 💎 *Main Menu* 💎
 │
 │⭔ ${prefix}ping
 │⭔ ${prefix}owner
@@ -2779,7 +2781,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Database Menu*
+┌──⭓ 💎 *Database Menu* 💎
 │
 │⭔ ${prefix}setcmd
 │⭔ ${prefix}listcmd
@@ -2792,7 +2794,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Anonymous Menu*
+┌──⭓ 💎 *Anonymous Menu* 💎
 │
 │⭔ ${prefix}anonymous
 │⭔ ${prefix}start
@@ -2802,7 +2804,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Islamic Menu*
+┌──⭓ 💎 *Islamic Menu* 💎
 │
 │⭔ ${prefix}iqra
 │⭔ ${prefix}hadist
@@ -2812,7 +2814,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Voice Changer*
+┌──⭓ 💎 *Voice Changer* 💎
 │
 │⭔ ${prefix}bass
 │⭔ ${prefix}blown
@@ -2828,7 +2830,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────⭓
 
-┌──⭓ *Owner Menu*
+┌──⭓ 💎 *Owner Menu* 💎
 │
 │⭔ ${prefix}react [emoji]
 │⭔ ${prefix}chat [option]
@@ -2841,7 +2843,10 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │⭔ ${prefix}setppbot [image]
 │⭔ ${prefix}setexif
 │
-└───────⭓`
+└───────⭓
+
+📍 *Use the Commands Correctly* 📍
+©️ *ᴀʟᴏᴛ* ©️`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
